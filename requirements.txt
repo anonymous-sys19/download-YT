@@ -1,0 +1,4 @@
+argparse
+progressbar2
+pytube
+tkinter
